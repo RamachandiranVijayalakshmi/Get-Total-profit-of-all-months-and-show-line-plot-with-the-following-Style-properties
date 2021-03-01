@@ -1,0 +1,1 @@
+# Get-Total-profit-of-all-months-and-show-line-plot-with-the-following-Style-properties
